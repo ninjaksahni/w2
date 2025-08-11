@@ -10,7 +10,7 @@ from reportlab.platypus import SimpleDocTemplate, Paragraph, Spacer, Table, Tabl
 
 st.set_page_config(page_title="Amazon Warehouse Stock — Markdown Cards", layout="wide")
 
-st.title("📦 Amazon Warehouse Stock — Compact Markdown Cards")
+st.title("📦 Amazon Warehouse Stock")
 
 st.markdown(
     """
